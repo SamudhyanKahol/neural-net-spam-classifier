@@ -12,7 +12,7 @@ This repository contains my university coursework project where I implemented a 
 ## Important Notes
 
 - The source code is **not included** here due to university coursework regulations.
-- This repository contains documentation and explanations of the methodology, design decisions, and results.
+- This repository contains a report on my project (pdf file) which includes the methodology, design decisions and results.
 
 ## Summary
 
