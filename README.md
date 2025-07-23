@@ -11,7 +11,7 @@ This repository contains my university coursework project where I implemented a 
 
 ## Important Notes
 
-- The source code is **not included** here due to university coursework regulations.
+- The source code is **included** but to get it working you are going to have to plug in your own data.
 - This repository contains a report on my project (pdf file) which includes the methodology, design decisions and results.
 
 ## Summary
